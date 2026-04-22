@@ -2,6 +2,8 @@
 
 Guide a cute bunny to catch falling stars, hearts, moons, and diamonds!
 
+https://seewhatimade.github.io/catch_stars.github.io/
+
 ## How to Play
 
 1. **Move your mouse or finger** left and right to guide the bunny.
